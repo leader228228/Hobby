@@ -1,0 +1,6 @@
+2018-11-01 00:55:56 INFO  Test:13 - Some hobby has been created
+2018-11-01 00:55:56 ERROR Test:23 - Try to refer to null pointer
+2018-11-01 00:55:56 DEBUG Test:29 - Weightlifting record value is 150.5
+2018-11-01 01:00:49 INFO  Test:13 - Some hobby has been created
+2018-11-01 01:00:49 ERROR Test:23 - Try to refer to null pointer
+2018-11-01 01:00:49 DEBUG Test:29 - Weightlifting record value is 150.5
